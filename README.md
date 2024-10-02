@@ -1,9 +1,1 @@
-EECS 280 Project 2 Solution
-===========================
-Computer Vision
-By Zach New <znew@umich.edu>
-## Quick start
-```console
-$ make main.exe
-$ ./main.exe
-```
+This will be an image resizing program that uses a seam-carving algorithm. The main goal of this project is to become mroe familiar with pointers in C++.
